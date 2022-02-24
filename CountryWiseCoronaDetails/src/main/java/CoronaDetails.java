@@ -62,7 +62,5 @@ public class CoronaDetails
         root.add(dataL, BorderLayout.CENTER);
         root.add(button, BorderLayout.SOUTH);
         root.setVisible(true);
-
-
     }
 }
